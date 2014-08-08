@@ -3,6 +3,7 @@ layout: post
 title:  "Main goals"
 date:   2014-08-08 11:12:01
 categories: learning
+tags: learning
 ---
 
 Main goals I want to reach is presented here:
