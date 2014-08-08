@@ -4,6 +4,8 @@ title:  "Week results"
 date:   2014-08-08 12:39:01
 categories: learning
 ---
+Week 04.08-10.08 results:
+---
 
 1. English: One lesson with skype teacher, one interview skype call
 2. Programmer skills: Nothing

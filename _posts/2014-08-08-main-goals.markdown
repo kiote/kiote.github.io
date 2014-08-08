@@ -1,13 +1,12 @@
 ---
-layout: post
-title: Main goals
-date: {}
-categories: learning
+layout: post 
+title: Main goals 
+date: 2014-08-08 12:39:01 
 tags: learning
-published: true
 ---
 
-## Main goals I want to reach is presented here:
+Main goals I want to reach is presented here:
+---------------------------------------------
 
 1. Improve my **English** to pass IELTS exam (>=7.5 score) to 15/01/2015
 2. Refresh **programmer skills** (by making some real job) start from 01/09/2014
