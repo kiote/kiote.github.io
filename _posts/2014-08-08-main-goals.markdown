@@ -12,3 +12,6 @@ Main goals I want to reach is presented here:
 3. Refresh SQL knowlige (real job from 2)
 4. Understand algoritms and data structures (read Sedgewick, pass Courcera cource, write real code)
 5. Learn Python to be able to write multi-thread programms (choose project)
+6. Read Dive Into Python book
+7. Learn Theory of Chances and Math Stat
+8. Learn Project Management literature (start with Steve McConnell - Rapid Development)
