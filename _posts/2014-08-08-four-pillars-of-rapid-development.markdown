@@ -10,7 +10,7 @@ Following to McConnel the best possible schedule depends on:
 1. Classic-mistake avoidance;
 2. Developent fundamentals;
 3. Risk-management;
-4. Schedule-oriented pracices.
+4. Schedule-oriented practices.
 
 One of classic mistake: shortchanging product quality early in the project.
 
