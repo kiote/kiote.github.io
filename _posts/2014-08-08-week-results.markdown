@@ -9,6 +9,6 @@ categories: learning
 2. Programmer skills: Nothing
 3. SQL: Nothing
 4. Algs: One lecture on coursera
-5-6. Python: Nothing
+5. -6. Python: Nothing
 7. MathStat: Started to read basics defenitions
 8. PM: Article had been translated to russian: http://www.smarttechlab.ru/2014/08/blog-post.html
