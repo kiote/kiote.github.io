@@ -2,7 +2,6 @@
 layout: post
 title:  "Four pillars of rapid programming"
 date:   2014-08-08 11:12:01
-tags: books
 ---
 Following to McConnel the best possible schedule depends on:
 ---

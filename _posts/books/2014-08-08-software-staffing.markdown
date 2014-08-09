@@ -2,7 +2,6 @@
 layout: post
 title:  "Five princeples of Software staffing"
 date:   2014-08-08 11:12:01
-tags: books
 ---
 
 According to Software Engenirring Economics (Boehm, 1981), five principles are:

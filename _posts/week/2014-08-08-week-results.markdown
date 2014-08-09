@@ -2,7 +2,6 @@
 layout: post
 title:  "Week results"
 date:   2014-08-08 12:39:01
-categories: learning
 ---
 Week 04.08-10.08 results:
 ---

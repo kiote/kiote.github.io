@@ -60,6 +60,11 @@ a:visited { color: #205caa; }
   z-index: 1;
 }
 
+.site-menu {
+  float: left;
+  margin-left: 20px;
+}
+
 .site-nav {
   float: right;
   line-height: 56px;
