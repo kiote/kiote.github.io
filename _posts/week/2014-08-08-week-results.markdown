@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week results"
+title:  "Week 04.08-10.08 results"
 date:   2014-08-08 12:39:01
 ---
 Week 04.08-10.08 results:
