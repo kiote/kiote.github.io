@@ -3,9 +3,6 @@ layout: post
 title:  "Week 04.08-10.08 results"
 date:   2014-08-08 12:39:01
 ---
-Week 04.08-10.08 results:
----
-
 1. English: two lessons with skype teacher, one interview skype call
 2. Programmer skills: Nothing
 3. SQL: Nothing

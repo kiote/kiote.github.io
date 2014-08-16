@@ -3,9 +3,6 @@ layout: post
 title:  "Week 11.08-17.08 results"
 date:   2014-08-12 12:39:01
 ---
-Week 11.08-17.08 results:
----
-
 1. English: one lesson with skype-teacher on IELTS
 2. Programmer skills:
     *  plinkedin project, python (2 hours);
