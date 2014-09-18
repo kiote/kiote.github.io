@@ -8,8 +8,14 @@ tags: words, learning
 Words of the week
 ---------------------------------------------
 
-Irreverent
+**Irreverent**
 ==========
 Disrespectful
 
-Mark Twain: Born irreverent
+> Mark Twain: Born irreverent
+
+**Essential**
+==========
+Very important
+
+> Workers at the factory will be deemed “essential”
