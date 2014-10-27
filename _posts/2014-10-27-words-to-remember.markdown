@@ -20,7 +20,11 @@ First week:
 
 Second week:
 ============
-?
+1. Confident
+2. Gain
+3. Sophisticated
+4. Splendid
+5. Arrangenent
 
 What "learn" means
 ------------------
