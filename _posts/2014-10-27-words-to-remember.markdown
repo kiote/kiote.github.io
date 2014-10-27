@@ -16,7 +16,7 @@ First week:
 4. Essential
 5. Abandon
 6. Hesitate
-7. ?
+7. Jitter
 
 Second week:
 ============
