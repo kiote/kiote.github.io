@@ -30,7 +30,13 @@ Second week:
 
 Third week:
 ===========
-
+1. Intention
+2. Biased
+3. Perseverance
+4. Vagrant
+5. Harvest
+6. Gorgeous
+7. Fascinating
 
 What "learn" means
 ------------------
