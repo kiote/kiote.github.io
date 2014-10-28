@@ -38,6 +38,13 @@ Third week:
 6. Gorgeous
 7. Fascinating
 
+Fourth week:
+============
+1. Confident
+2. Effort
+3. Approach
+4. Particularly
+
 What "learn" means
 ------------------
 
