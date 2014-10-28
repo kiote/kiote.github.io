@@ -25,6 +25,12 @@ Second week:
 3. Sophisticated
 4. Splendid
 5. Arrangenent
+6. Stubborn
+7. Rebellious
+
+Third week:
+===========
+
 
 What "learn" means
 ------------------
